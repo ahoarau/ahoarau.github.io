@@ -345,6 +345,8 @@ footer {
 
 footer p {
     margin: 0;
+    font-size: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 ::-moz-selection {

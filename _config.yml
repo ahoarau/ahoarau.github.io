@@ -2,15 +2,15 @@
 title: Antoine Hoarau
 email: hoarau.robotics [at] gmail.com
 url: https://ahoarau.github.io
-description: "Antoine Hoarau - Robotics Enginneer"
+description: "Antoine Hoarau - Robotics Engineer"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#86a2bb'
 
 # Footer settings
-footer: Antoine Hoarau - Robotics Engineer
+footer: Antoine Hoarau
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
